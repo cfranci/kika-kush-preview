@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kikakush.com/sitemap.xml
